@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-hello Spotify
+      Main Content
 
     </div>
   )
